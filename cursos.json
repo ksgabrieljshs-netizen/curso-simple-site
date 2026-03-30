@@ -1,13 +1,13 @@
 [
   {
     "nome": "Curso de HTML",
-    "imagem": ""
+    "imagem": "https://vignette.wikia.nocookie.net",
     "preco": "R$ 49,90"
   },
 
   {
     "nome": "Curso de CSS",
-    "imagem": "",
+    "imagem": "https://vignette.wikia.nocookie.net",
     "preco": "R$ 59,90"
   }
   

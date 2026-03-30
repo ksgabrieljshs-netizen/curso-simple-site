@@ -1,0 +1,201 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.5;
+  background: linear-gradient(135deg, #0aadad, #0a61e4);
+  color: #fff;
+}
+
+.bar {
+  background-color: #008cff;
+  margin: 15px auto;
+  padding: 15px;
+  max-width: 1200px;
+  border-radius: 12px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  gap: 15px;
+
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+  transition: transform 0.3s ease;
+}
+
+@media (hover: hover) {
+  .bar:hover {
+    transform: scale(1.03) translateY(5px);
+  }
+
+  .bar button:hover {
+    transform: translateY(-8px);
+    background-color: rgb(41, 45, 48, 0.2);
+  }
+
+  .bar h1:hover {
+    transform: translateY(-5px);
+    background-color: rgb(41, 45, 48, 0.2);
+  }
+
+  .CursoTemplate h1:hover {
+    transform: scale(1.05);
+    background-color: rgba(41, 45, 48, 0.2); /*Transparente 0.2*/
+  }
+
+  .CursoTemplate p:hover {
+    transform: scale(1.05);
+    background-color: rgba(41, 45, 48, 0.2); /*Transparente 0.2*/
+  }
+
+  .CursoTemplate:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.4);
+  }
+
+  .CursoTemplate img:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.3);
+  }
+}
+
+.bar button {
+  background-color: #106aa7;
+  border-radius: 5px;
+  width: 100px;
+  height: 40px;
+  border: none;
+  color: white;
+
+  transition: 0.3s ease;
+}
+
+.bar h1 {
+  flex: 0 0 auto;
+  text-align: center;
+
+  background-color: #106aa7;
+  border-radius: 5px;
+  padding: 5px 10px;
+
+  transition: transform 0.3s ease;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 40px auto;
+  padding: 20px;
+
+  background-color: #008cff;
+  border-radius: 15px;
+
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 25px;
+
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.25);
+}
+
+.CursoTemplate {
+  width: 260px;
+  flex: 0 0 260px;
+
+  background-color: #0a61e4;
+  border-radius: 10px;
+  padding: 20px;
+  text-align: center;
+
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.CursoTemplate h1 {
+  font-size: 18px;
+  margin-bottom: 15px;
+  border-radius: 15px;
+  transition: 0.3s ease;
+}
+
+.CursoTemplate img {
+  width: 100%;
+  height: auto;
+  border-radius: 5px;
+
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.CursoTemplate p {
+  font-size: 18px;
+  margin-bottom: 15px;
+  border-radius: 15px;
+  transition: 0.3s ease;
+}
+
+.CursoTemplate button {
+  padding: 10px 12px;
+  margin: 5px;
+
+  border: none;
+  border-radius: 6px;
+
+  cursor: pointer;
+  font-weight: bold;
+
+  transition: 0.2s;
+}
+
+.CursoTemplate button:first-of-type {
+  background-color: #ffffff;
+  color: #0a61e4;
+}
+
+.CursoTemplate button:last-of-type {
+  background-color: #00ffae;
+  color: #003b2a;
+}
+
+.CursoTemplate button:hover {
+  opacity: 0.85;
+}
+
+/* ========================= */
+/* 📱 RESPONSIVIDADE */
+/* ========================= */
+
+/*Isso abaixo foi feito por AI, nao aprendi ainda*/
+
+@media (max-width: 768px) {
+  .bar {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .bar h1 {
+    width: 100%;
+  }
+
+  .bar button {
+    width: 100%;
+  }
+
+  .container {
+    padding: 15px;
+  }
+}
+
+@media (max-width: 480px) {
+  .CursoTemplate {
+    flex: 1 1 100%;
+    max-width: 100%;
+  }
+
+  .container {
+    padding: 10px;
+  }
+}

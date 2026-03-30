@@ -8,5 +8,205 @@
     "nome": "Curso de CSS",
     "imagem": "https://vignette.wikia.nocookie.net",
     "preco": "R$ 59,90"
+  },
+  {
+    "nome": "Curso de JavaScript",
+    "imagem": "https://vignette.wikia.nocookie.net",
+    "preco": "R$ 89,90"
+  },
+  {
+    "nome": "Curso de React",
+    "imagem": "https://vignette.wikia.nocookie.net",
+    "preco": "R$ 129,90"
+  },
+  {
+    "nome": "Curso de Node.js",
+    "imagem": "https://vignette.wikia.nocookie.net",
+    "preco": "R$ 119,90"
+  },
+  {
+    "nome": "Curso de Python",
+    "imagem": "https://vignette.wikia.nocookie.net",
+    "preco": "R$ 99,90"
+  },
+  {
+    "nome": "Curso de Django",
+    "imagem": "https://vignette.wikia.nocookie.net",
+    "preco": "R$ 139,90"
+  },
+  {
+    "nome": "Curso de Java",
+    "imagem": "https://vignette.wikia.nocookie.net",
+    "preco": "R$ 109,90"
+  },
+  {
+    "nome": "Curso de Spring Boot",
+    "imagem": "https://vignette.wikia.nocookie.net",
+    "preco": "R$ 149,90"
+  },
+  {
+    "nome": "Curso de PHP",
+    "imagem": "https://vignette.wikia.nocookie.net",
+    "preco": "R$ 79,90"
+  },
+  {
+    "nome": "Curso de Laravel",
+    "imagem": "https://vignette.wikia.nocookie.net",
+    "preco": "R$ 129,90"
+  },
+  {
+    "nome": "Curso de TypeScript",
+    "imagem": "https://vignette.wikia.nocookie.net",
+    "preco": "R$ 94,90"
+  },
+  {
+    "nome": "Curso de Angular",
+    "imagem": "https://vignette.wikia.nocookie.net",
+    "preco": "R$ 124,90"
+  },
+  {
+    "nome": "Curso de Vue.js",
+    "imagem": "https://vignette.wikia.nocookie.net",
+    "preco": "R$ 114,90"
+  },
+  {
+    "nome": "Curso de MongoDB",
+    "imagem": "https://vignette.wikia.nocookie.net",
+    "preco": "R$ 99,90"
+  },
+  {
+    "nome": "Curso de PostgreSQL",
+    "imagem": "https://vignette.wikia.nocookie.net",
+    "preco": "R$ 89,90"
+  },
+  {
+    "nome": "Curso de MySQL",
+    "imagem": "https://vignette.wikia.nocookie.net",
+    "preco": "R$ 79,90"
+  },
+  {
+    "nome": "Curso de Docker",
+    "imagem": "https://vignette.wikia.nocookie.net",
+    "preco": "R$ 109,90"
+  },
+  {
+    "nome": "Curso de Kubernetes",
+    "imagem": "https://vignette.wikia.nocookie.net",
+    "preco": "R$ 159,90"
+  },
+  {
+    "nome": "Curso de AWS",
+    "imagem": "https://vignette.wikia.nocookie.net",
+    "preco": "R$ 199,90"
+  },
+  {
+    "nome": "Curso de Git e GitHub",
+    "imagem": "https://vignette.wikia.nocookie.net",
+    "preco": "R$ 69,90"
+  },
+  {
+    "nome": "Curso de UI/UX Design",
+    "imagem": "https://vignette.wikia.nocookie.net",
+    "preco": "R$ 119,90"
+  },
+  {
+    "nome": "Curso de Figma",
+    "imagem": "https://vignette.wikia.nocookie.net",
+    "preco": "R$ 84,90"
+  },
+  {
+    "nome": "Curso de Tailwind CSS",
+    "imagem": "https://vignette.wikia.nocookie.net",
+    "preco": "R$ 74,90"
+  },
+  {
+    "nome": "Curso de SASS",
+    "imagem": "https://vignette.wikia.nocookie.net",
+    "preco": "R$ 69,90"
+  },
+  {
+    "nome": "Curso de Bootstrap",
+    "imagem": "https://vignette.wikia.nocookie.net",
+    "preco": "R$ 64,90"
+  },
+  {
+    "nome": "Curso de Next.js",
+    "imagem": "https://vignette.wikia.nocookie.net",
+    "preco": "R$ 139,90"
+  },
+  {
+    "nome": "Curso de GraphQL",
+    "imagem": "https://vignette.wikia.nocookie.net",
+    "preco": "R$ 129,90"
+  },
+  {
+    "nome": "Curso de Prisma",
+    "imagem": "https://vignette.wikia.nocookie.net",
+    "preco": "R$ 104,90"
+  },
+  {
+    "nome": "Curso de Jest",
+    "imagem": "https://vignette.wikia.nocookie.net",
+    "preco": "R$ 89,90"
+  },
+  {
+    "nome": "Curso de Cypress",
+    "imagem": "https://vignette.wikia.nocookie.net",
+    "preco": "R$ 94,90"
+  },
+  {
+    "nome": "Curso de DevOps",
+    "imagem": "https://vignette.wikia.nocookie.net",
+    "preco": "R$ 179,90"
+  },
+  {
+    "nome": "Curso de Segurança da Informação",
+    "imagem": "https://vignette.wikia.nocookie.net",
+    "preco": "R$ 149,90"
+  },
+  {
+    "nome": "Curso de Inteligência Artificial",
+    "imagem": "https://vignette.wikia.nocookie.net",
+    "preco": "R$ 249,90"
+  },
+  {
+    "nome": "Curso de Machine Learning",
+    "imagem": "https://vignette.wikia.nocookie.net",
+    "preco": "R$ 229,90"
+  },
+  {
+    "nome": "Curso de Data Science",
+    "imagem": "https://vignette.wikia.nocookie.net",
+    "preco": "R$ 219,90"
+  },
+  {
+    "nome": "Curso de Power BI",
+    "imagem": "https://vignette.wikia.nocookie.net",
+    "preco": "R$ 99,90"
+  },
+  {
+    "nome": "Curso de Excel Avançado",
+    "imagem": "https://vignette.wikia.nocookie.net",
+    "preco": "R$ 79,90"
+  },
+  {
+    "nome": "Curso de Flutter",
+    "imagem": "https://vignette.wikia.nocookie.net",
+    "preco": "R$ 129,90"
+  },
+  {
+    "nome": "Curso de React Native",
+    "imagem": "https://vignette.wikia.nocookie.net",
+    "preco": "R$ 134,90"
+  },
+  {
+    "nome": "Curso de Kotlin",
+    "imagem": "https://vignette.wikia.nocookie.net",
+    "preco": "R$ 104,90"
+  },
+  {
+    "nome": "Curso de Swift",
+    "imagem": "https://vignette.wikia.nocookie.net",
+    "preco": "R$ 119,90"
   }
 ]
